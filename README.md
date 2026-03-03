@@ -1,72 +1,59 @@
-## Hi there 👋
-🚀 I am Dhruv Suyal
-💻 MERN Stack Developer | 🧠 DSA in C++ | 🔥 Problem Solver
-👋 About Me
+<h1 align="center">Hi 👋, I'm Dhruv Suyal</h1>
+<h3 align="center">🚀 MERN Stack Developer | 🧠 DSA in C++ | ⚡ Building Scalable Web Solutions</h3>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;DSA+Enthusiast+in+C%2B%2B;Clean+Code+Advocate;Problem+Solver+%7C+Continuous+Learner" /> </p>
+🚀 About Me
 
-I am a passionate MERN Stack Developer who loves building scalable and dynamic web applications.
-Alongside development, I actively practice Data Structures & Algorithms in C++ to strengthen my problem-solving skills.
+💻 I build Full-Stack Web Applications using the MERN Stack
 
-🔭 Building Full-Stack Web Applications
+🧠 I practice Data Structures & Algorithms in C++
 
-🧠 Practicing DSA daily in C++
+🔥 Passionate about solving complex logical problems
 
-💡 Love solving complex real-world problems
+⚡ Focused on writing clean, scalable & optimized code
 
-🎯 Focused on writing clean, efficient & optimized code
-
-⚡ Always learning, always improving
+🎯 Consistency + Discipline = Growth
 
 🛠️ Tech Stack
 🌐 Frontend
-
-HTML5
-
-CSS3
-
-JavaScript (ES6+)
-
-React.js
-
-GSAP
-
-Tailwind CSS
-
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" /> </p>
 ⚙️ Backend
-
-Node.js
-
-Express.js
-
-REST API Development
-
-JWT Authentication
-
-MVC Architecture
-
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
 🗄️ Database
+<p> <img src="https://skillicons.dev/icons?i=mongodb" /> </p>
+🧠 Programming & DSA
+<p> <img src="https://skillicons.dev/icons?i=cpp,js" /> </p>
+🧩 DSA & Problem Solving
 
-MongoDB
+Arrays & Strings
 
-Mongoose
+Linked List
 
-🧠 Programming
+Stack & Queue
 
-C++ (DSA & Problem Solving)
+Recursion & Backtracking
 
-JavaScript
+Binary Search
 
-JAVA
-<!--
-**Dhruv-Suyal/Dhruv-Suyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sorting Algorithms
 
-Here are some ideas to get you started:
+Trees & Graph Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Time & Space Complexity
+
+🧰 Tools & Technologies
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux" /> </p>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+🔥 What Sets Me Apart
+
+✔ Strong MERN fundamentals
+✔ Consistent DSA practice in C++
+✔ Focus on performance & scalability
+✔ Clean architecture mindset
+✔ Growth-driven attitude
+
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/YOUR_LINK"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+⚡ Powerful Developer Quote
+
+“I don’t chase trends. I master fundamentals, solve real problems, and build systems that last.”
