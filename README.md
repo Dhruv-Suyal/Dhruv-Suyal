@@ -25,8 +25,12 @@
 
 🧰 Tools & Technologies
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /> </p>
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-Suyal&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Suyal&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhruv-Suyal&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhruv-Suyal&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 🔥 What Sets Me Apart
 
 ✔ Strong MERN fundamentals
