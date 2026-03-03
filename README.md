@@ -15,33 +15,16 @@
 
 🛠️ Tech Stack
 🌐 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /> </p>
 ⚙️ Backend
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
 🗄️ Database
 <p> <img src="https://skillicons.dev/icons?i=mongodb" /> </p>
 🧠 Programming & DSA
-<p> <img src="https://skillicons.dev/icons?i=cpp,js" /> </p>
-🧩 DSA & Problem Solving
-
-Arrays & Strings
-
-Linked List
-
-Stack & Queue
-
-Recursion & Backtracking
-
-Binary Search
-
-Sorting Algorithms
-
-Trees & Graph Basics
-
-Time & Space Complexity
+<p> <img src="https://skillicons.dev/icons?i=cpp,js,java" /> </p>
 
 🧰 Tools & Technologies
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /> </p>
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
 🔥 What Sets Me Apart
@@ -53,7 +36,7 @@ Time & Space Complexity
 ✔ Growth-driven attitude
 
 🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/YOUR_LINK"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/dhruv-suyal-a7a68b29b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:dhruvsuyal0@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 ⚡ Powerful Developer Quote
 
 “I don’t chase trends. I master fundamentals, solve real problems, and build systems that last.”
